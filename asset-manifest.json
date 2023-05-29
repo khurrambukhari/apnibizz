@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/khurrambukhari/spring-apnabiz/static/css/main.073c9b0a.css",
+    "main.js": "/khurrambukhari/spring-apnabiz/static/js/main.21a92db7.js",
+    "static/js/787.1c7fd7c1.chunk.js": "/khurrambukhari/spring-apnabiz/static/js/787.1c7fd7c1.chunk.js",
+    "index.html": "/khurrambukhari/spring-apnabiz/index.html",
+    "main.073c9b0a.css.map": "/khurrambukhari/spring-apnabiz/static/css/main.073c9b0a.css.map",
+    "main.21a92db7.js.map": "/khurrambukhari/spring-apnabiz/static/js/main.21a92db7.js.map",
+    "787.1c7fd7c1.chunk.js.map": "/khurrambukhari/spring-apnabiz/static/js/787.1c7fd7c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.21a92db7.js"
+  ]
+}
